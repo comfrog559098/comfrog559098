@@ -1,6 +1,6 @@
 ## Hey, I’m Griffin 👋
 
-**C# and .NET Software Developer** experienced in backend systems, application & technical support, and building community-driven projects.
+**C# and .NET Software Developer** experienced in backend systems, application & technical support, and building community-driven games & apps.
 
 ### What I’m Doing Right Now
 - Building a Job Search Assistant in ASP.NET Core
