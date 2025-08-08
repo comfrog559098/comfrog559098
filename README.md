@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I’m Griffin Vince 👋
 
-<!--
-**comfrog559098/comfrog559098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C# and .NET Software Developer** experienced in backend systems, application & technical support, and building community-driven projects.
 
-Here are some ideas to get you started:
+### What I’m Doing Right Now
+- Building a Job Search Assistant in ASP.NET Core
+- Maintaining LaunchCore (Windows game launcher)
+- Leveling up my skills with daily practice sprints
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [LaunchCore](https://github.com/YOURUSERNAME/LaunchCore) – Customizable game launcher with auto-updates
+- [Job Search Assistant](link to repo when live) – Track and organize job applications
+- [Event Relay + Discord Webhook Service] – Coming soon
