@@ -7,6 +7,6 @@
 - Maintaining LaunchCore (General-use Windows App Auto-Updater & Launcher)
 
 ### Featured Projects
-- [LaunchCore](https://github.com/YOURUSERNAME/LaunchCore) – Customizable game launcher with auto-updates
+- [LaunchCore](https://github.com/comfrog559098/LaunchCore) – Customizable game launcher with auto-updates
 - [Job Search Assistant] – Track and organize job applications - Coming soon
 - [Event Relay + Discord Webhook Service] – Coming soon
