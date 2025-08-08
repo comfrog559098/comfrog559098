@@ -4,7 +4,7 @@
 
 ### What I’m Doing Right Now
 - Building a Job Search Assistant in ASP.NET Core
-- Maintaining LaunchCore (Windows game launcher)
+- Maintaining LaunchCore (General-use Windows App Launcher)
 
 ### Featured Projects
 - [LaunchCore](https://github.com/YOURUSERNAME/LaunchCore) – Customizable game launcher with auto-updates
