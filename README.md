@@ -1,4 +1,4 @@
-## Hey, I’m Griffin Vince 👋
+## Hey, I’m Griffin 👋
 
 **C# and .NET Software Developer** experienced in backend systems, application & technical support, and building community-driven projects.
 
